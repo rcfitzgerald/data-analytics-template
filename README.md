@@ -1,10 +1,12 @@
-# HW 4 Template Repository
+# HW 5 Template Repository
 
 November 12, 2024
 
 scarping spotify data and joining
 
 ### To do list:
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 
 [ ] task 1  
 [ ] task 2  
