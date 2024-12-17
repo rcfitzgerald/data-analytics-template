@@ -2,10 +2,10 @@
 
 ### To do list:
 
-[x] Scrape Spotify using an API
-[x] Download dataset from Kaggle
-[x] Create Notebooks for scraping, cleaning, and visualizations
-[x] Complete Report
+- [x] Scrape Spotify using an API
+- [x] Download dataset from Kaggle
+- [x] Create Notebooks for scraping, cleaning, and visualizations
+- [x] Complete Report
 
 ### Change log
 
